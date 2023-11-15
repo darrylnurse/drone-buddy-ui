@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/drone-buddy-ui/static/css/main.f855e6bc.css",
+    "main.js": "/drone-buddy-ui/static/js/main.1ed6896b.js",
+    "static/js/787.88729e44.chunk.js": "/drone-buddy-ui/static/js/787.88729e44.chunk.js",
+    "static/media/logo.svg": "/drone-buddy-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/drone-buddy-ui/index.html",
+    "main.f855e6bc.css.map": "/drone-buddy-ui/static/css/main.f855e6bc.css.map",
+    "main.1ed6896b.js.map": "/drone-buddy-ui/static/js/main.1ed6896b.js.map",
+    "787.88729e44.chunk.js.map": "/drone-buddy-ui/static/js/787.88729e44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1ed6896b.js"
+  ]
+}
