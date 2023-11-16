@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/drone-buddy-ui/static/css/main.bed8e49b.css",
-    "main.js": "/drone-buddy-ui/static/js/main.956b2587.js",
-    "static/media/roblox.png": "/drone-buddy-ui/static/media/roblox.b1509a0ad9f971c1460a.png",
+    "main.css": "/drone-buddy-ui/static/css/main.b54bce35.css",
+    "main.js": "/drone-buddy-ui/static/js/main.c7309abc.js",
+    "static/media/drone4.jpg": "/drone-buddy-ui/static/media/drone4.9907b87e4ec480879e36.jpg",
+    "static/media/drone5.jpg": "/drone-buddy-ui/static/media/drone5.2b12594a5481f90f45ee.jpg",
+    "static/media/drone6.jpg": "/drone-buddy-ui/static/media/drone6.a0a8f4e0c07d77077b7c.jpg",
+    "static/media/drone3.jpg": "/drone-buddy-ui/static/media/drone3.11d57a379cb16c127255.jpg",
+    "static/media/drone1.jpg": "/drone-buddy-ui/static/media/drone1.bbb8c6b77bfc6100bedd.jpg",
+    "static/media/drone2.jpg": "/drone-buddy-ui/static/media/drone2.bb4a8a136a58cf4276d7.jpg",
     "index.html": "/drone-buddy-ui/index.html",
-    "main.bed8e49b.css.map": "/drone-buddy-ui/static/css/main.bed8e49b.css.map",
-    "main.956b2587.js.map": "/drone-buddy-ui/static/js/main.956b2587.js.map"
+    "main.b54bce35.css.map": "/drone-buddy-ui/static/css/main.b54bce35.css.map",
+    "main.c7309abc.js.map": "/drone-buddy-ui/static/js/main.c7309abc.js.map"
   },
   "entrypoints": [
-    "static/css/main.bed8e49b.css",
-    "static/js/main.956b2587.js"
+    "static/css/main.b54bce35.css",
+    "static/js/main.c7309abc.js"
   ]
 }
