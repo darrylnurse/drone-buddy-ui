@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.section {
+    height: 6rem;
+}
+
+.button-click:active {
+    transform: scale(105%);
+    transition: transform 0.025s ease;
+}
+
+.silly-hover:hover {
+    transform: rotate(360deg);
+    transition: transform 1s linear;
+}
